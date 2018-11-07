@@ -12,7 +12,7 @@ void setup()
 
 void loop()                      
 {
- digitalWrite = random( 10-130);
+ 
  randOn = random (50, 1000);    
  randOff = random (50,1000 );    
    digitalWrite(13, HIGH);   
